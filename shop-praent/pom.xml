@@ -11,6 +11,7 @@
     <modules>
         <module>shop-api</module>
         <module>shop-portal</module>
+        <module>shop-admin</module>
     </modules>
 
     <!--子模块公共依赖-->
