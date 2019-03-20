@@ -10,8 +10,6 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>shop-api</module>
-        <module>shop-admin</module>
-        <module>shop-commons</module>
     </modules>
 
     <!--子模块公共依赖-->
